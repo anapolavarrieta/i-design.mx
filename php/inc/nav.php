@@ -11,18 +11,18 @@
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav navbar-right">
-			<li id="navpart1"><a href="index.php">Inicio</a></li>
-			<li id="navpart2"><a href="isabel.php">Isabel</a></li>
+			<li id="navpart1"><a href="/php/index.php">Inicio</a></li>
+			<li id="navpart2"><a href="/php/isabel.php">Isabel</a></li>
             <li id="navpart3"><a href="#">Maquillaje</a></li>
-            <li id="navpart4"><a href="diseno.php">Diseño</a></li>
+            <li id="navpart4"><a href="/php/diseno.php">Diseño</a></li>
 			<li id="navpart5" class="dropdown">
 				<a href="#" class="dropdown-toggle" data-toggle="dropdown"> Fotos <b class="caret"></b></a>
 				<ul class="dropdown-menu">
-					<li><a href="maquillaje.php">Maquillaje</a></li>
-					<li><a href="novias.php">Novias</a></li>
+					<li><a href="/php/maquillaje.php">Maquillaje</a></li>
+					<li><a href="/php/novias.php">Novias</a></li>
 				</ul>
 			</li>
-            <li id="navpart6"><a href="info.php">Solicitud Información</a></li>
+            <li id="navpart6"><a href="/php/info.php">Solicitud Información</a></li>
           </ul>
         </div>
       </div>

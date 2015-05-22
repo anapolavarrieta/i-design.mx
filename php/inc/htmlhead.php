@@ -3,9 +3,9 @@
 
 
     <!-- CSS -->
-    <link href="../Bootstrap/css/bootstrap.min.css" rel="stylesheet">
-	<link rel="stylesheet" href="../bsgallery/css/blueimp-gallery.min.css">
-	<link href="../css/style.css" rel="stylesheet">
+    <link href="/Bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="/bsgallery/css/blueimp-gallery.min.css">
+	<link href="/css/style.css" rel="stylesheet">
 
 	
 	<!-- jQuery  -->
@@ -13,8 +13,8 @@
     <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 	<script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.12.0/jquery.validate.js"></script>
-	<script src="../Bootstrap/js/bootstrap.min.js"></script>
-	<script src="../bsgallery/js/blueimp-gallery.min.js"></script>
+	<script src="/Bootstrap/js/bootstrap.min.js"></script>
+	<script src="/bsgallery/js/blueimp-gallery.min.js"></script>
 
 
 	
