@@ -56,6 +56,15 @@
 								<h4>Objetivo </h4>
 									<p> Crear de manera estratégica un closet versatil 
 									<br/> Crear un closet que te ayude a verte y sentirte muy bien, saliendo lo más rápido posible </p>
+								<h4>Servicio consiste en: </h4>
+									<ul>
+										<li> Se realiza prueba de estilo y color</li>
+										<li> Se revisa PRENDA POR PRENDA del guardarropa, que todo vaya con las actividades que realiza, estilo, colorimetría y tipo de 
+										cuerpo </li>
+										<li> Se arman atuendos favorecedores, se determina que es lo que falta en el guardarropa, se aprende a combinar las prendas y se
+										enseña que atuendo es para cada ocasión </li>
+										<li> Se analizan accesorios </li>
+									</ul>
 								<h4> Facts </h4>
 									<p> La mayoría de las personas utilizamos el 20% de nuestro closet el 80% del tiempo
 									<br/> El momento mortal en el closet cada mañana, puede ser fácil y poco frustante </p>

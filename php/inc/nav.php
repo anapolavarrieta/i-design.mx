@@ -22,7 +22,7 @@
 					<li><a href="/php/novias.php">Novias</a></li>
 				</ul>
 			</li>
-            <li id="navpart6"><a href="/php/info.php">Solicitud Información</a></li>
+            <li id="navpart6"><a href="/php/info.php">Contacto</a></li>
           </ul>
         </div>
       </div>

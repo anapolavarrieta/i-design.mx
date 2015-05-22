@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Solicitud de Información</title>
+    <title>Contacto</title>
    <?php include("inc/htmlhead.php"); ?>
 </head>
 
@@ -30,7 +30,6 @@
 	
 	<div id="info">
 		<p> Isabel Benabib 
-		<br/>5527557040 
 		<br/> isabenabib@hotmail.com </p>
 	</div>
 	
