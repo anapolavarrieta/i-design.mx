@@ -26,7 +26,7 @@
 		<a href="../Images/gallery/maquillaje4.jpg" data-gallery> <img src="../Images/gallery/th/tn_maquillaje4.jpg" alt="Maquillando4"></a>
 		<a href="../Images/gallery/maquillaje5.jpg" data-gallery> <img src="../Images/gallery/th/tn_maquillaje5.jpg" alt="Maquillando5"></a>
 		</br></br>
-		<a href="../Images/gallery/maquillaje6.jpg" data-gallery> <img src="../Images/gallery/th/tn_maquillaje6.jpg" alt="Maquillando6"></a>
+		<a href="../Images/gallery/maquillaje6.JPG" data-gallery> <img src="../Images/gallery/th/tn_maquillaje6.JPG" alt="Maquillando6"></a>
 		<a href="../Images/gallery/maquillaje7.jpg" data-gallery> <img src="../Images/gallery/th/tn_maquillaje7.jpg" alt="Maquillando7"></a>
 		<a href="../Images/gallery/maquillaje8.jpg" data-gallery> <img src="../Images/gallery/th/tn_maquillaje8.jpg" alt="Maquillando8"></a>
 	</div>
