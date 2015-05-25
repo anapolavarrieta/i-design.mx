@@ -23,7 +23,7 @@
 		<a href="../Images/gallery/novia2.jpg" data-gallery> <img src="../Images/gallery/th/novia2_th.bmp" alt="Novia2"></a>
 		<a href="../Images/gallery/novia3.jpg" data-gallery> <img src="../Images/gallery/th/novia3_th.bmp" alt="Novia3"></a>
 		<a href="../Images/gallery/novia4.jpg" data-gallery> <img src="../Images/gallery/th/novia4_th.bmp" alt="Novia4"></a>
-		<a href="../Images/gallery/novia5.jpg" data-gallery> <img src="../Images/gallery/th/novia5_th.bmp" alt="Novia5"></a>
+		<a href="../Images/gallery/novia5.jpg" data-gallery> <img src="../Images/gallery/th/tn_novia5.jpg" alt="Novia5"></a>
 	</div>
 
 </body>
