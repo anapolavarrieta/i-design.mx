@@ -19,15 +19,18 @@
 	</div>
 			
 	<div id="links">
+		</br></br>
 		<a href="../Images/gallery/novia1.jpg" data-gallery> <img src="../Images/gallery/th/tn_novia1.jpg" alt="Novia1"></a>
 		<a href="../Images/gallery/novia2.jpg" data-gallery> <img src="../Images/gallery/th/tn_novia2.jpg" alt="Novia2"></a>
 		<a href="../Images/gallery/novia3.jpg" data-gallery> <img src="../Images/gallery/th/tn_novia3.jpg" alt="Novia3"></a>
 		<a href="../Images/gallery/novia4.jpg" data-gallery> <img src="../Images/gallery/th/tn_novia4.jpg" alt="Novia4"></a>
+		</br></br>
 		<a href="../Images/gallery/novia5.jpg" data-gallery> <img src="../Images/gallery/th/tn_novia5.jpg" alt="Novia5"></a>
 		<a href="../Images/gallery/novia6.jpg" data-gallery> <img src="../Images/gallery/th/tn_novia6.jpg" alt="Novia6"></a>
 		<a href="../Images/gallery/novia7.jpg" data-gallery> <img src="../Images/gallery/th/tn_novia7.jpg" alt="Novia7"></a>
 		<a href="../Images/gallery/novia8.JPG" data-gallery> <img src="../Images/gallery/th/tn_novia8.JPG" alt="Novia8"></a>
 		<a href="../Images/gallery/novia9.jpg" data-gallery> <img src="../Images/gallery/th/tn_novia9.jpg" alt="Novia9"></a>
+		</br></br>
 		<a href="../Images/gallery/novia10.jpg" data-gallery> <img src="../Images/gallery/th/tn_novia10.jpg" alt="Novia10"></a>
 	</div>
 

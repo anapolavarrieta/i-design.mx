@@ -19,12 +19,16 @@
 	</div>
 			
 	<div id="links">
-		<a href="../Images/gallery/SIA_0015.JPG" data-gallery> <img src="../Images/gallery/th/SIA_0015_th.bmp" alt="Maquillando1"></a>
-		<a href="../Images/gallery/SIA_0077.JPG" data-gallery> <img src="../Images/gallery/th/SIA_0077_th.bmp" alt="Maquillando2"></a>
-		<a href="../Images/gallery/SIA_0081.JPG" data-gallery> <img src="../Images/gallery/th/SIA_0081_th.bmp" alt="Maquillando3"></a>
-		<a href="../Images/gallery/SIA_0124.JPG" data-gallery> <img src="../Images/gallery/th/SIA_0124_th.bmp" alt="Maquillando4"></a>
-		<a href="../Images/gallery/SIA_0137.JPG" data-gallery> <img src="../Images/gallery/th/SIA_0137_th.bmp" alt="Maquillando5"></a>
-		<a href="../Images/gallery/maquillaje1.jpg" data-gallery> <img src="../Images/gallery/th/maquillaje1_th.bmp" alt="Maquillando6"></a>
+		</br></br>
+		<a href="../Images/gallery/maquillaje1.jpg" data-gallery> <img src="../Images/gallery/th/tn_maquillaje1.jpg" alt="Maquillando1"></a>
+		<a href="../Images/gallery/maquillaje2.jpg" data-gallery> <img src="../Images/gallery/th/tn_maquillaje2.jpg" alt="Maquillando2"></a>
+		<a href="../Images/gallery/maquillaje3.jpg" data-gallery> <img src="../Images/gallery/th/tn_maquillaje3.jpg" alt="Maquillando3"></a>
+		<a href="../Images/gallery/maquillaje4.jpg" data-gallery> <img src="../Images/gallery/th/tn_maquillaje4.jpg" alt="Maquillando4"></a>
+		<a href="../Images/gallery/maquillaje5.jpg" data-gallery> <img src="../Images/gallery/th/tn_maquillaje5.jpg" alt="Maquillando5"></a>
+		</br></br>
+		<a href="../Images/gallery/maquillaje6.jpg" data-gallery> <img src="../Images/gallery/th/tn_maquillaje6.jpg" alt="Maquillando6"></a>
+		<a href="../Images/gallery/maquillaje7.jpg" data-gallery> <img src="../Images/gallery/th/tn_maquillaje7.jpg" alt="Maquillando7"></a>
+		<a href="../Images/gallery/maquillaje8.jpg" data-gallery> <img src="../Images/gallery/th/tn_maquillaje8.jpg" alt="Maquillando8"></a>
 	</div>
 
 </body>
